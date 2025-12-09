@@ -33,4 +33,3 @@ I build tools and pipelines for cardiovascular and cancer research using large-s
 ---
 
 <sub>🏠 Working from home in Leeds, UK</sub>
-Claude
