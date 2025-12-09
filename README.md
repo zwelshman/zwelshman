@@ -2,7 +2,7 @@
 
 Data Scientist at the **BHF Data Science Centre** (HDR UK) and Visiting Data Scientist at the **University of Leeds**.
 
-I build tools and pipelines for cardiovascular research using large-scale NHS datasets — typically working with 50M+ patient records in trusted research environments.
+I build tools and pipelines for cardiovascular and cancer research using large-scale NHS datasets — typically working with 50M+ patient records in trusted research environments.
 
 ## What I work on
 
