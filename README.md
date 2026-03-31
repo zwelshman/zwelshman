@@ -5,8 +5,7 @@
 - **LLM applications** — RAG systems for clinical documentation and codebase intelligence
 - **Data curation tools** — phenotype search, metadata management, validation frameworks
 - **Research software engineering** — making analytical code reproducible and shareable
-@@ -20,15 +21,13 @@ I build tools and pipelines for cardiovascular and cancer research using large-s
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+- **Custom Tool Development** I build tools and pipelines for cardiovascular and cancer research using large-scale data.
 
 ## Currently building
 - 📊 Cardiovascular and Oncology datasets for world leading reseach. 
