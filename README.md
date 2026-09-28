@@ -24,6 +24,9 @@
 - AI usage outcomes review — review of real-world impact of AI coding assistants/agents, compiled into a report.
 
 
+## Blog
+✍️ [zwelshman.github.io](https://github.com/zwelshman/zwelshman.github.io) — writing on health data engineering, LLM tooling, and research software.
+
 ## Find me elsewhere
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID-ID)
