@@ -12,11 +12,17 @@
 - 🤖 Question-answering systems for healthcare documentation.
 
 ## Currently Exploring
+### Tools
 - Hermes Agent <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/icon-master.svg" width="60" alt="Hermes Agent" />
-- Code generation engines team style specifics.
+- ![Kilo Code](https://github.com/user-attachments/assets/bdb0c174-b9fd-40ad-a47b-f3aab9b54e8d)
+
+### Agents 
+- Code/Knowledge generation/retrieval engines.
+
+### Information
 - AI Threat Monitor — tracking threat actors using OpenAI/Anthropic tooling against organisations, compiled into a report.
 - AI usage outcomes review — review of real-world impact of AI coding assistants/agents, compiled into a report.
-- ![Kilo Code](https://github.com/user-attachments/assets/bdb0c174-b9fd-40ad-a47b-f3aab9b54e8d)
+
 
 ## Find me elsewhere
 
