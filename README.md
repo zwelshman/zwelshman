@@ -11,7 +11,12 @@
 - 📊 Cardiovascular and Oncology datasets for world leading reseach. 
 - 🤖 Question-answering systems for healthcare documentation.
 
-
+## Currently Exploring
+- ![Hermes Agent](https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/icon-master.svg)
+- Code generation engines team style specifics.
+- AI Threat Monitor — tracking threat actors using OpenAI/Anthropic tooling against organisations, compiled into a report.
+- AI usage outcomes review — review of real-world impact of AI coding assistants/agents, compiled into a report.
+- [Kilo Code](https://github.com/Kilo-Org/kilocode/blob/main/logo.png)
 
 ## Find me elsewhere
 
