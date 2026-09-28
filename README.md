@@ -25,7 +25,7 @@
 
 
 ## Blog
-✍️ [zwelshman.github.io](https://github.com/zwelshman/zwelshman.github.io) — writing on health data engineering, LLM tooling, and research software.
+✍️ [zwelshman.github.io](https://zwelshman.github.io) — writing on health data engineering, LLM tooling, and research software.
 
 ## Find me elsewhere
 
