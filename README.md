@@ -16,7 +16,7 @@
 - Code generation engines team style specifics.
 - AI Threat Monitor — tracking threat actors using OpenAI/Anthropic tooling against organisations, compiled into a report.
 - AI usage outcomes review — review of real-world impact of AI coding assistants/agents, compiled into a report.
-- [Kilo Code]([https://github.com/Kilo-Org/kilocode/blob/main/logo.png](https://github.com/user-attachments/assets/bdb0c174-b9fd-40ad-a47b-f3aab9b54e8d)
+- [Kilo Code](https://github.com/user-attachments/assets/bdb0c174-b9fd-40ad-a47b-f3aab9b54e8d)
 
 ## Find me elsewhere
 
