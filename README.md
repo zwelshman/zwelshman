@@ -13,13 +13,15 @@
 
 ## Currently Exploring
 ### Tools
-- Hermes Agent <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/icon-master.svg" width="60" alt="Hermes Agent" />
-- ![Kilo Code](https://github.com/user-attachments/assets/bdb0c174-b9fd-40ad-a47b-f3aab9b54e8d)
+- Hermes Agent
+- OpenWebUI
+- OpenCode
+- MCP Servers
 
 ### Agents 
-- Code/Knowledge generation/retrieval engines.
+- Knowledge retrieval engines - RAG
 
-### Information
+### Information Tracking
 - AI Threat Monitor — tracking threat actors using OpenAI/Anthropic tooling against organisations, compiled into a report.
 - AI usage outcomes review — review of real-world impact of AI coding assistants/agents, compiled into a report.
 
