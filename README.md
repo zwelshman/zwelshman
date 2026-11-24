@@ -18,8 +18,9 @@
 - OpenCode
 - MCP Servers
 
-### Agents 
+### Knowledge Systems 
 - Knowledge retrieval engines - RAG
+- Graph Knowledge retrieval engines
 
 ### Information Tracking
 - AI Threat Monitor — tracking threat actors using OpenAI/Anthropic tooling against organisations, compiled into a report.
